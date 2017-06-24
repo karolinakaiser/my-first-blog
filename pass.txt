@@ -1,7 +1,0 @@
-GitHub, PythonAnywhere
-
-user: karolinakaiser
-pass: DjangoGirls2017
-
-paulina@
-kaja.milanowska@ardigen.com
